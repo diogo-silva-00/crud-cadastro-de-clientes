@@ -1,0 +1,19 @@
+.example-full-width {
+  margin-right: 1em;
+}
+
+.btn-search {
+  font-size: 16px !important;
+  height: 3em;
+}
+
+.btn-search:hover {
+  border: 2px solid rgb(139, 139, 139) !important;
+  background-color: rgb(247, 247, 247);
+}
+
+.btn-search:active {
+  border: 2px solid rgb(139, 139, 139) !important;
+  background-color: rgb(194, 194, 194);
+}
+
